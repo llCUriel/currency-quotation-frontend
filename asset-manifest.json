@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/currency-quotation-frontend/static/css/main.fb368a4b.css",
+    "main.js": "/currency-quotation-frontend/static/js/main.0aae4eaf.js",
+    "static/js/453.8434f826.chunk.js": "/currency-quotation-frontend/static/js/453.8434f826.chunk.js",
+    "index.html": "/currency-quotation-frontend/index.html",
+    "main.fb368a4b.css.map": "/currency-quotation-frontend/static/css/main.fb368a4b.css.map",
+    "main.0aae4eaf.js.map": "/currency-quotation-frontend/static/js/main.0aae4eaf.js.map",
+    "453.8434f826.chunk.js.map": "/currency-quotation-frontend/static/js/453.8434f826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb368a4b.css",
+    "static/js/main.0aae4eaf.js"
+  ]
+}
